@@ -3,6 +3,8 @@
 > 本人在简书的博客 [chou_o_ning](https://www.jianshu.com/u/5eae5f4e525b)
 >
 > 创建于 2024 劳动节。
+>
+> 如果需要交流和讨论，可以直接在这个项目上提交 issue。
 
 ## iOS
 ### WKWebView
